@@ -300,7 +300,7 @@ IE 浏览器会混淆元素的 `id` 和 `name` 属性， `document.getElementByI
 
 
 
-## 6 `meta` 标签
+## 6 `meta` 标签
 
 > 启用 IE Edge 模式。
 
